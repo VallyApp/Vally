@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+}
+main{
+    border: 0px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    width: 60%;
+}
+.title h1{
+    font-size: 45px;
+    text-align: center;
+    font-family: "Fredoka";
+    font-weight: 500;
+}
+.image{
+    margin: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.information{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.information p{
+    font-size: 25px;
+    font-family: "Fredoka";
+    text-align: justify;
+    margin-top: 2%;
+}
